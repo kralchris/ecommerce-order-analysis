@@ -14,6 +14,14 @@ This project analyzes a large dataset of e-commerce orders to uncover key insigh
 
 ---
 
+## Data
+
+[Download the data here](https://drive.google.com/file/d/12WKUU8FlBmW0wxqo7e3oPBq3-80pSR1b/view?usp=sharing)
+
+Structure: Order ID, E-shop, Shipping Method, Status, Customer Group, Created at, Sent at, Payment Method (Orders), Weight Order [kg], GMV
+
+---
+
 ## **Summary of Findings**
 ### 1. Total GMV (Gross Merchandise Value)
 - **Total GMV**: €12,345,678
